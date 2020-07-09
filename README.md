@@ -1,16 +1,16 @@
-### Hi there 👋
+# About me! 🐧
 
-<!--
-**arkencl/arkencl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Exploring is an ever present part of my life as a Developer, check out new libraries and languages and play around with it to get a better idea and maybe use something I played around with in production one day?
 
-Here are some ideas to get you started:
+# Goals for 2020! ⚽
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Create a couple of Flutter Applications!
+* Create a couple of Kotlin, Koltin Native and Kotlin Multiplatform Applications.
+* Play around with Elixir and Rust.
+* Play around with Swing and JavaFX.
+
+# Contact me! 📣
+
+You can find me on [The Programmer's Hangout](https://discord.gg/programming) under the handle arkencl#5579,
+on [Twitter](https://twitter.com/arkencl/) or on the other sites listed on my [personal website](https://arkencl.dev/)
+Talk to me about your favorite games (board and video), anime, manga, music or library.
