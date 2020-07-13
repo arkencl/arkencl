@@ -8,6 +8,7 @@ Exploring is an ever present part of my life as a Developer, check out new libra
 * Create a couple of Kotlin, Koltin Native and Kotlin Multiplatform Applications.
 * Play around with Elixir and Rust.
 * Play around with Swing and JavaFX.
+* Maintain and create a few Discord Bots
 
 # Contact me! 📣
 
