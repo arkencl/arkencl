@@ -12,6 +12,4 @@ Exploring is an ever present part of my life as a Developer, check out new libra
 
 # Contact me! 📣
 
-You can find me on [The Programmer's Hangout](https://discord.gg/programming) under the handle arkencl#5579,
-on [Twitter](https://twitter.com/arkencl/) or on the other sites listed on my [personal website](https://arkencl.dev/)
-Talk to me about your favorite games (board and video), anime, manga, tracks or libraries.
+You can find me on [Twitter](https://twitter.com/arkencl/).
